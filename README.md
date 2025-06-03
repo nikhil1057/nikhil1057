@@ -24,6 +24,8 @@ public class Developer
 
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people*</b>  
+*Unless you're a bug in my code — then we're not friends.  
+But seriously, say <b>hi</b> — I promise I won't respond with `404: Social Skills Not Found` :)</em>
 
 ---
